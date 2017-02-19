@@ -1,7 +1,7 @@
 LIBSVM.jl
 =========
 
-[![Build Status](https://travis-ci.org/simonster/LIBSVM.jl.png?branch=master)](https://travis-ci.org/antoinehus/LIBSVM.jl)
+[![Build Status](https://travis-ci.org/AntoineHus/LIBSVM.jl.svg?branch=master)](https://travis-ci.org/AntoineHus/LIBSVM.jl)
 
 
 Julia bindings for [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
